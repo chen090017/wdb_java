@@ -1,0 +1,53 @@
+server:
+  servlet:
+    context-path: /wdb/
+    session:
+      timeout: 1800
+  tomcat:
+    max-threads: 1000
+    min-spare-threads: 30
+    uri-encoding: utf-8
+  port: 8088
+logging:
+  config: classpath:logback-spring.xml
+spring:
+  mvc:
+    async:
+      #外部请求超时时间设置30秒
+      request-timeout: 30000
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+  banner:
+    location: config/banner.txt
+    charset: utf-8
+
+  aop:
+    proxy-target-class: true
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 300000
+      max-request-size: 300000
+  devtools:
+    restart:
+      enabled: true
+#mybatis
+mybatis-plus:
+  mapper-locations: classpath:/mapper/**/*.xml
+  #实体扫描，多个package用逗号或者分号分隔
+  typeAliasesPackage: com.wdb.**.pojo
+  global-config:
+    db-config:
+      id-type: input
+      #逻辑删除配置
+      logic-delete-value: -1
+      logic-not-delete-value: 0
+      #自定义SQL注入器
+      table-underline: true
+      db-type: mysql
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+    call-setters-on-nulls: true

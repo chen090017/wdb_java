@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wdb.pdd.api.dao.batch.GoodsBatchDetailDao">
+    <select id="getList" resultType="com.wdb.pdd.api.pojo.vo.GoodsBatchDetailVO" parameterType="map">
+        SELECT
+            a.id,
+            a.goods_id AS goodsId,
+            a.batch_id AS batchId,
+            a.old_value AS oldValue,
+            a.new_value AS newValue,
+            a.state,
+            a.err_msg AS errMsg,
+            a.batch_type AS batchType,
+            a.batch_channel AS batchChannel,
+            b.goods_name AS goodsName,
+            b.carousel_gallery_list AS carouselGalleryList
+        FROM
+            wdb_goods_batch_detail a
+        LEFT JOIN wdb_goods b ON a.goods_id = b.goods_id
+        WHERE
+            a.batch_id = #{pojo.batchId}
+    </select>
+
+    <select id="countByState" resultType="com.wdb.pdd.api.pojo.dto.GoodsBatchDetailCountDTO">
+        SELECT
+            state,
+            COUNT(1)  AS num
+        FROM
+            wdb_goods_batch_detail
+        WHERE
+            batch_id = #{batchId}
+        GROUP BY
+            state
+    </select>
+</mapper>

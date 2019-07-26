@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wdb.pdd.api.dao.activity.ActivityLogDao">
+
+    <select id="getList" resultType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+        select * from wdb_activity_log  where activity_id=#{activityId} and uid=#{uid} order by  create_time desc
+    </select>
+
+
+    <insert id="add" parameterType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+    insert  into wdb_activity_log (activity_id,uid,helper,result,create_time) value(#{activityLog.activityId},#{activityLog.uid},#{activityLog.helper},#{activityLog.result},now()  )
+   </insert>
+
+    <select id="sum"  resultType="String">
+
+    SELECT SUM(result) FROM wdb_activity_log WHERE activity_id=#{activityId} AND uid=#{uid}
+
+    </select>
+
+
+
+    <select id="singleTotal"  resultType="int">
+    SELECT COUNT(*) FROM wdb_activity_log WHERE activity_id=#{activityId} AND uid=#{uid} AND helper=#{helper}
+    </select>
+
+
+<!---通一个人砍几刀-->
+    <select id="singleCount"  resultType="int">
+    SELECT COUNT(*) FROM    `wdb_activity_log`  WHERE  activity_id=#{activityId} AND  helper=#{helper}
+    </select>
+
+<!--砍价动态-->
+    <select id="getTop10List" resultType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+        select * from wdb_activity_log  where activity_id=#{activityId} order by  create_time desc limit 10
+    </select>
+
+<!--砍价达人-->
+    <select id="getTop10List2" resultType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+        select * from wdb_activity_log  where activity_id=#{activityId} order by  result desc limit 10
+    </select>
+
+<!--自己的砍价活动-->
+<!--    AND NOW() &lt;create_time+INTERVAL 1 DAY-->
+
+    <select id="myactivity" resultType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+        select * from wdb_activity_log  WHERE activity_id=#{activityId} AND uid=#{uid} AND helper=#{helper}
+    </select>
+
+    <delete id="deleteActivityLog" parameterType="com.wdb.pdd.api.pojo.entity.ActivityLog">
+      DELETE FROM wdb_activity_log WHERE activity_id=#{activityId} AND uid=#{uid}
+   </delete>
+
+
+
+</mapper>
+

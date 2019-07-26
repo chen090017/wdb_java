@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "name": "pdd",
+      "type": "com.wdb.pdd.common.config.PddSdkConfig",
+      "sourceType": "com.wdb.pdd.common.config.PddSdkConfig"
+    },
+    {
+      "name": "wdb",
+      "type": "com.wdb.pdd.common.config.WdbConfig",
+      "sourceType": "com.wdb.pdd.common.config.WdbConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pdd.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.wdb.pdd.common.config.PddSdkConfig"
+    },
+    {
+      "name": "pdd.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.wdb.pdd.common.config.PddSdkConfig"
+    },
+    {
+      "name": "wdb.datacenter-id",
+      "type": "java.lang.Long",
+      "description": "数据ID",
+      "sourceType": "com.wdb.pdd.common.config.WdbConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "wdb.project-name",
+      "type": "java.lang.String",
+      "description": "项目名，末尾不带 \"\/\"",
+      "sourceType": "com.wdb.pdd.common.config.WdbConfig"
+    },
+    {
+      "name": "wdb.project-root-u-r-l",
+      "type": "java.lang.String",
+      "description": "项目根目录，末尾带 \"\/\"",
+      "sourceType": "com.wdb.pdd.common.config.WdbConfig"
+    },
+    {
+      "name": "wdb.work-id",
+      "type": "java.lang.Long",
+      "description": "机器ID",
+      "sourceType": "com.wdb.pdd.common.config.WdbConfig",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}
