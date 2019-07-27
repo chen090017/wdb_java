@@ -35,10 +35,10 @@ public class ActivityController {
      *
      * @return
      */
-    @CheckToken
+//    @CheckToken
     @PostMapping("/activityList")
     public Result<?> getActivityList(@RequestBody Map<String, Object> req) {
-        req.put("reguserId", UserUtils.getReguserId());
+//        req.put("reguserId", UserUtils.getReguserId());
         Map<String, Object> activityListMap = ActivityService.getList(req);
         return Result.ok(activityListMap);
     }

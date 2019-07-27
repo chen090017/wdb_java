@@ -2,404 +2,17 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/impl/GoodsServiceImpl.java" line="496" />
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" line="129" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" line="127" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94cf4e30-92a6-4582-8014-efeae54fbdac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_Batch_2_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jre/server-jre-8u191-linux-x64.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pop-sdk-0.0.1-all.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-batch-core-2.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-binding-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-data-jpa-1.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-faces-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-amqp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-core-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-event-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-feed-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-file-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ftp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-groovy-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-http-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ip-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jms-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jmx-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-jpa-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mail-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-redis-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-rmi-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-scripting-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-security-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-sftp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-stream-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-syslog-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-test-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-twitter-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-ws-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-xml-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-js-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-js-resources-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-acl-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-aspects-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-cas-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-config-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-core-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-crypto-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-ldap-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-openid-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-remoting-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-taglibs-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-security-web-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webflow-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-ws.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error/log-error-2019-07-22.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error/log-error-2019-07-23.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error/log-error-2019-07-24.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/error/log-error-2019-07-25.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/info/log-info-2019-07-22.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/info/log-info-2019-07-23.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/info/log-info-2019-07-24.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/info/log-info-2019-07-25.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log_all.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log_error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdd-wdb-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shell/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/pdd_wdb_2019_06_18_AM.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/增量sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/JavaApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/Admin/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/batch/GoodsBatchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/cats/GoodsCatsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/goods/GoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/logistics/GoodsLogisticsTemplateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/activity/ActivityDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/activity/ActivityLogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/batch/GoodsBatchDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/batch/GoodsBatchDetailDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/cats/GoodsCatsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/goods/GoodsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/goods/GoodsSyncDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/logistics/GoodsLogisticsTemplateDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/product/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/sys/AdminActionDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/sys/ProductVipDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/sys/ReguserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/sys/VipDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/dto/GoodsBatchAddDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/dto/GoodsBatchDetailCountDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/dto/GoodsSelectUpdateDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/ActivityLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/AdminAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsBatchDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsBatchDetailDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsCarouselDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsCatsDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsLogisticsTemplateDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsOverseaDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsPropertyDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsSkuDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsSkuOverseaDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsSkuSpecDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/GoodsSyncDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/ProductVip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/ReguserDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/Vip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsBatchDetailVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsBatchVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsCatsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsSku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsSkuVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsSkuVON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/vo/GoodsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/ActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/IActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/IActivityServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/IGoodsBatchBizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/IGoodsBatchDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/IGoodsBatchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/impl/GoodsBatchBizServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/impl/GoodsBatchDetailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/batch/impl/GoodsBatchServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/cats/IGoodsCatsBizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/cats/IGoodsCatsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/cats/impl/GoodsCatsBizServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/cats/impl/GoodsCatsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/IGoodsBizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/IGoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/IGoodsSyncService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/impl/GoodsBizServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/impl/GoodsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/goods/impl/GoodsSyncServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/ILogisticsTemplateBizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/ILogisticsTemplateService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/LServiceTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/impl/LServiceTemplateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/impl/LogisticsTemplateBizServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/logistics/impl/LogisticsTemplateServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/product/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/product/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/AdminActionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/IReguserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/ProductVipService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/VipService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/impl/AdminActionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/impl/ProductVipServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/impl/ReguserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/impl/VipServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/annotation/CheckToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/aspect/WebLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/CacheConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/DruidDBConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/PddSdkConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/ShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/Swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/TaskPoolConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/WdbConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/exception/handlers/ApplicationExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/exception/handlers/EnumErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/filter/OriginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/filter/SQLFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/filter/XssFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/filter/XssHttpServletRequestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/interceptor/AuthenticationInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/task/AsyncTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/task/ScheduledTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/Encrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/IPUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/IdUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/JSONUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/MySequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/PageUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/SpringContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/UserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/utils/xss/JsoupUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ActivityLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsBatchDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wdb/pdd/javaapi/JavaApiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wdb/pdd/javaapi/TestJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/pop-sdk-0.0.1-all.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-batch-core-2.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-batch-infrastructure-2.2.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-binding-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-data-jpa-1.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-faces-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-amqp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-core-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-event-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-feed-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-file-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-ftp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-gemfire-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-groovy-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-http-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-ip-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-jdbc-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-jms-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-jmx-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-jpa-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-mail-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-mongodb-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-mqtt-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-redis-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-rmi-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-scripting-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-security-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-sftp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-stream-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-syslog-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-test-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-twitter-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-ws-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-xml-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-integration-xmpp-4.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-js-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-js-resources-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-acl-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-aspects-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-cas-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-config-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-core-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-crypto-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-ldap-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-openid-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-remoting-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-taglibs-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-security-web-3.2.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-webflow-2.4.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BOOT-INF/lib/spring-ws.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/JavaApiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/Admin/AdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/activity/ActivityController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/batch/GoodsBatchController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/cats/GoodsCatsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/goods/GoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/logistics/GoodsLogisticsTemplateController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/activity/ActivityDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/activity/ActivityLogDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/batch/GoodsBatchDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/batch/GoodsBatchDetailDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/cats/GoodsCatsDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/goods/GoodsDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/goods/GoodsSyncDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/logistics/GoodsLogisticsTemplateDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/product/ProductDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/sys/AdminActionDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/sys/ProductVipDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/sys/ReguserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/dao/sys/VipDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/dto/GoodsBatchAddDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/dto/GoodsBatchDetailCountDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/dto/GoodsSelectUpdateDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/Activity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/ActivityLog$ActivityLogBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/ActivityLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/AdminAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsBatchDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsBatchDetailDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsCarouselDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsCatsDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsLogisticsTemplateDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsOverseaDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsPropertyDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsSkuDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsSkuOverseaDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsSkuSpecDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/GoodsSyncDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/ProductVip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/ReguserDO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/entity/Vip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsBatchDetailVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsBatchVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsCatsVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsDetail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsSku.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsSkuVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsSkuVON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/pojo/vo/GoodsVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/ActivityService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/IActivityService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/impl/IActivityServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/IGoodsBatchBizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/IGoodsBatchDetailService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/IGoodsBatchService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/impl/GoodsBatchBizServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/impl/GoodsBatchDetailServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/batch/impl/GoodsBatchServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/cats/IGoodsCatsBizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/cats/IGoodsCatsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/cats/impl/GoodsCatsBizServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/cats/impl/GoodsCatsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/IGoodsBizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/IGoodsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/IGoodsSyncService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/impl/GoodsBizServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/impl/GoodsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/goods/impl/GoodsSyncServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/ILogisticsTemplateBizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/ILogisticsTemplateService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/LServiceTemplate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/impl/LServiceTemplateImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/impl/LogisticsTemplateBizServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/logistics/impl/LogisticsTemplateServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/product/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/product/impl/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/AdminActionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/IReguserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/ProductVipService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/VipService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/impl/AdminActionServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/impl/ProductVipServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/impl/ReguserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/sys/impl/VipServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/annotation/CheckToken.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/aspect/WebLogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/CacheConfiguration$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/CacheConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/DruidDBConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/InterceptorConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/MybatisPlusConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/PddSdkConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/Swagger2Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/TaskPoolConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/WdbConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/config/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/exception/MyException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/exception/handlers/ApplicationExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/exception/handlers/EnumErrorCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/filter/OriginFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/filter/SQLFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/filter/XssFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/filter/XssHttpServletRequestWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/interceptor/AuthenticationInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/task/AsyncTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/task/ScheduledTasks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/Encrypt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/IPUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/IdUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/JSONUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/MySequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/PageUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/Query.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/SpringContextHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/UserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/common/utils/xss/JsoupUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/config/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ActivityLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GoodsBatchDetailMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/wdb/pdd/javaapi/JavaApiApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/wdb/pdd/javaapi/TestJava8$Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/wdb/pdd/javaapi/TestJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log_all.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log_all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/activity/ActivityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/controller/activity/ActivityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -431,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="41" column="62" selection-start-line="41" selection-start-column="62" selection-end-line="41" selection-end-column="62" />
+            <state relative-caret-position="222">
+              <caret line="95" column="50" lean-forward="true" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -446,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/Admin/AdminController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+            <state relative-caret-position="2660">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -455,11 +68,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="2432">
+              <caret line="149" column="40" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/JavaApiApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -534,7 +156,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/product/impl/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/product/ProductDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/activityController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/dao/sys/VipDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/impl/VipServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/sys/VipService.java" />
@@ -548,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/pojo/entity/AdminAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/Admin/AdminController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java" />
       </list>
     </option>
   </component>
@@ -615,7 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -964,6 +585,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1147,13 +769,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34897172" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35347044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2745626" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.34051144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45564517" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1162,7 +784,7 @@
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3293011" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.36962366" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50064266" side_tool="true" weight="0.34051144" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3293011" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.3293011" />
@@ -1177,6 +799,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vesion 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="vesion 1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1211,20 +837,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/task/AsyncTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1676">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/common/task/ScheduledTasks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1545,11 +1157,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4FCCB02C/ActivityServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2089" />
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO4FCCB02C/ActivityServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1598,20 +1206,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="41" column="62" selection-start-line="41" selection-start-column="62" selection-end-line="41" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/Admin/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+        <state relative-caret-position="2660">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1620,8 +1218,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/service/activity/impl/ActivityServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="2432">
+          <caret line="149" column="40" selection-start-line="149" selection-start-column="40" selection-end-line="149" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/JavaApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2751" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wdb/pdd/api/controller/activity/ActivityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="95" column="50" lean-forward="true" selection-start-line="95" selection-start-column="50" selection-end-line="95" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

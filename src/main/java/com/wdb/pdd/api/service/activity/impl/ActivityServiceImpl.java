@@ -100,9 +100,6 @@ public class ActivityServiceImpl implements ActivityService {
             isAgainKanjia=true;
         }
 
-
-
-
         System.out.println("结束时间"+myendTime);
 
         List<ActivityLog> activityLoglist = ActivityLogDao.getList(activityId, uid);
@@ -113,10 +110,11 @@ public class ActivityServiceImpl implements ActivityService {
         ReguserDO u_reguser = reguserDao.selectById(uid);
         for (ActivityLog activityLog : activityLoglist) {
             map = new HashMap<>();
-            ReguserDO h_reguser = reguserDao.selectById(activityLog.getHelper());
-            map.put("id", h_reguser.getId());
-            map.put("name", h_reguser.getMallName());
-            map.put("log", h_reguser.getLogo());
+            ReguserDO helper = reguserDao.selectById(activityLog.getHelper());
+            ReguserDO h_reguser = reguserDao.selectById(activityLog.getUid());
+            map.put("id", helper.getId());
+            map.put("name", helper.getMallName());
+            map.put("log", helper.getLogo());
             map.put("mes", activityLog.getUid() == activityLog.getHelper() ? "自己砍掉" : "帮好友砍掉");
             map.put("result", activityLog.getResult());
             SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
@@ -144,7 +142,8 @@ public class ActivityServiceImpl implements ActivityService {
         BigDecimal leftReduceTotal = totalprice.subtract(result).setScale(2, BigDecimal.ROUND_HALF_EVEN);
         data.put("price", leftReduceTotal);
         data.put("totalprice", totalprice);
-        data.put("name",UserUtils.getReguserId()==uid?"我的":u_reguser.getMallName());
+         ActivityLog fistactive=activityLoglist.get(0);
+        data.put("name",fistactive.getUid()==uid?"我的":u_reguser.getMallName());
         data.put("result", result.setScale(2, BigDecimal.ROUND_HALF_EVEN));
         data.put("list", list);
         data.put("activity",activity);
